@@ -17,7 +17,7 @@ FROM gcr.io/distroless/base
 COPY --from=build /app .
 
 #Expose a port
-EXPOSE 3000
+EXPOSE 3001
 
 #Run the application
 CMD [ "npm", "start" ]

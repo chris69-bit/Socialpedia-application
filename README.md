@@ -1,14 +1,14 @@
-# Socialpedia-application
+# Sociopedia-application
 
 This Projecct involves a MERN stack web application that imitates a social media with included features of login, authentication, adding user and updating post.It was designed with a modular structure for maintainability and scalability then deployed to AWS EKS using DevOps principles.
 
 ## Table of Contents
-- [Socialpedia](#Socialpedia)
+- [Sociopedia](#Socialpedia)
 - [Jenkins-Pipeline](#Jenkins-Pipeline)
 - [Terrform](#Terraform)
 - [Kubernetes-Manifest](#Kubernetes-Manifest-file)
 
-## Socialpedia
+## Sociopedia
 This directory contains the source code for the implementation of the application. The application is implemented using a monolithic architecture. Feel free to explore the directory.
 
 ## Jenkins-Pipeline
